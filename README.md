@@ -1,4 +1,4 @@
-# FuckYouBot
+# What is FuckYouBot?
 Simple Discord bot written in Py3 that has a 10% chance of randomly sending a desired message.
 
 # Why?
