@@ -16,3 +16,4 @@ async def on_message(message):
         await message.channel.send("custom message here")
 
 client.run("BOT-TOKEN-GOES-HERE")
+# Please remember to replace BOT-TOKEN-GOES-HERE with your Discord app token, and edit the custom message before running!
